@@ -1,23 +1,54 @@
-# Getting Started with Create React Recipe App
+🍽 Recipe Contest Application - Recipes Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React.js application for an online recipe contest, featuring search, sorting, and filtering functionalities. The page is fully responsive, adapting to different screen sizes (Laptop, Tablet, Mobile) while closely following the provided UI design.
 
-## Available Scripts
+🛠 Installation & Setup
 
-### Set Up Instructions
+1 Clone the repository
 
-# Download dependencies by running npm install
+     git clone https://github.com/your-username/recipe-contest-app.git
+     
+     cd recipe-contest-app
 
-# Start up the app using npm start
+2 Install dependencies
 
-### . Functionalities to Implement:
+    npm install
 
-# Search Recipes based on - Recipe Name, Chef Name and Description.  Sorting Options:  Upload Date - Newest & Oldest  Average Rating: Highest & Lowest
+2 Run the application
 
-# Filtering based on:  Attributes : Contest Winner, Featured, Test Kitchen-Approved
+    npm run start
 
-# Meal Type: Dinner, Lunch, Dessert, Breakfast  Dish Type: Curry, Pizza, Seafood, Soup, Mexican, Smoothie
+The app will be available at http://localhost:3000/
 
-# Users should be able to:  Clear all filters at once
 
-# Remove individual filters separatel
+
+
+✨ Features
+
+✅ Search recipes by:
+
+Recipe Name
+
+Chef Name
+
+Description
+
+✅ Sorting Options:
+
+Upload Date → Newest & Oldest
+
+Average Rating → Highest & Lowest
+
+✅ Filtering Options:
+
+Attributes → Contest Winner, Featured, Test Kitchen-Approved
+
+Meal Type → Dinner, Lunch, Dessert, Breakfast
+
+Dish Type → Curry, Pizza, Seafood, Soup, Mexican, Smoothie
+
+✅ User Actions:
+
+Clear all filters at once
+
+Remove individual filters
